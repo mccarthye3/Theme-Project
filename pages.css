@@ -7,7 +7,9 @@ body{
   border-color:#d8ffe2;
   background: rgba(255, 247, 251);
  
-   
+p{
+  line-height: 35px;   /* within paragraph */
+}   
   
 
 }

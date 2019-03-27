@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+Pusheen is an example of the popularity of cats on the Internet. An exhibition at the New York City Museum of the Moving Image examined the phenomenon, highlighting Pusheen alongside other celebrity cats such as Grumpy Cat and Lil Bub. The Facebook page for Pusheen has over 9.2 million fans as of February 2019.The brand has expanded with merchandise including an app. Pusheen has expanded and moved beyond just Facebook and now takes part in multiple social media platforms such as: Instagram, Pinterest, and Twitter. This cartoon cat also has many fan pages within the platforms and blogs dedicated to celebrating the comic. Its popularity has even allowed the Pusheen Corp to create an app that is an expansion of their sticker collection that started on Facebook. Within each social media account that is officially owned by the creators of Pusheen the cat has gained over a million followers and counting. Due to this rise in popularity the company has started releasing GIFs on their website several times a month.
+
+  <details>
+      <summary>Pusheen Cartoons</summary>
+      <p>
+<img src= "https://66.media.tumblr.com/8dc980d9c20b30f498ce3804953e3be9/tumblr_po7oagXs9K1qhy6c9o1_500.gif"/img>
+<img src= "https://66.media.tumblr.com/7db75a4fb97529b02d4b04f6ca490735/tumblr_piyvafPYu31qhy6c9o1_500.gif"/img>
+<img src= "https://66.media.tumblr.com/fa16441bd4e311b0d1f81ab2ab9373b1/tumblr_piyv99camd1qhy6c9o1_500.gif"/img>
+<img src= "https://66.media.tumblr.com/feab6fb192201f0297d8de8c8edb85ad/tumblr_piyv64b1iJ1qhy6c9o1_500.gif"/img>
+    </p>
+      
+    </details>
+</body>
+</html>

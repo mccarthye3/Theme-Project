@@ -71,11 +71,13 @@ nav a:focus {
 }
 
 /*----images----- */
-#gif{
+img{
   max-width: 100%;
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
+    border-radius:20%;
+    
 }
 
 #title{
@@ -93,6 +95,3 @@ a{
   word-break: break-all;
 }
 
-img{
-  border-radius:20%;
-}

@@ -63,7 +63,7 @@ display: inline;
 font-family: sans-serif;
 font-size: 14px;
 }
-nav a {
+nav a{
 text-transform: uppercase;
 padding: .5em;
 margin-top: 2em;
@@ -100,5 +100,4 @@ a{
 
 img{
   border-radius:20%;
-  float:left;
 }

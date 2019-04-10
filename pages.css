@@ -97,3 +97,7 @@ max-width:50em;
 a{
   word-break: break-all;
 }
+
+img{
+  border-radius:20%;
+}

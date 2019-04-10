@@ -83,9 +83,10 @@ nav a:focus {
 /*----images----- */
 img {
   max-width: 100%;
-    display: block;
+    display: inline;
     margin-left: auto;
     margin-right: auto 
+   
 }
 
 #title{

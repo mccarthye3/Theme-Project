@@ -76,7 +76,7 @@ nav a:focus {
 }
 
 /*----images----- */
-img {
+#gif{
   max-width: 100%;
     display: block;
     margin-left: auto;
